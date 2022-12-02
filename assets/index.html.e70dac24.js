@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-b5421bdc","path":"/InstallDocs/","title":"文档介绍","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1669994564000,"contributors":[{"name":"Aikkes_xk","email":"68454687+Aikkes-xk@users.noreply.github.com","commits":1}]},"filePathRelative":"InstallDocs/Index.md"}');export{e as data};
