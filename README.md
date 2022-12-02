@@ -1,19 +1,25 @@
----
-home: true
-title: 首页
-heroImage: https://api.skyxk.cn/UnturnedIcon/Item/689.png
-actions:
-  - text: 框架简介
-    link: /framework/
-    type: secondary
-  - text: 快速上手
-    link: /framework/#快速上手
-    type: primary
-features:
-  - title: 简单
-    details: 美观简单的UI操作界面，轻松好上手！
-  - title: 安全
-    details: 拥有插件审查机制，防止被不法分子利用，破坏造成框架异常和损坏！
-  - title: 免费
-    details: 本框架基于开源协议，永久免费开放！禁止任何人进行二次倒卖！
-footer: Copyright ©2017-2022  All Rights Reserved 版权所有 Nebula Game Stuido 备案号：湘ICP备20004807号-6
+<p align="center">
+  <a href="https://drea.cc/docs">
+    <img src="https://api.skyxk.cn/UnturnedIcon/Item/689.png" width="200" height="200" alt="Rhyheart">
+  </a>
+</p>
+
+<div align="center">
+
+  # drea-open-docs
+
+  _✨ 本文档项目基于 [VuePress](https://v2.vuepress.vuejs.org/zh/) 框架，以 [Markdown](https://v2.vuepress.vuejs.org/zh/guide/markdown.html) 作为编写规范，简单易上手✨_
+
+  <a href="https://github.com/Rhyheart/drea-open-docs/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/Rhyheart/drea-open-docs" alt="license">
+  </a>
+  <a href="https://github.com/Rhyheart/drea-open-docs/releases">
+    <img src="https://img.shields.io/github/v/release/Rhyheart/drea-open-docs?color=blueviolet&include_prereleases"
+      alt="release">
+  </a>
+
+</div>
+
+## 文档说明
+
+本文档为MiaBot框架文档！
