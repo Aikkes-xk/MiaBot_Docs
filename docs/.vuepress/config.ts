@@ -5,6 +5,7 @@ export default defineUserConfig({
   lang: 'zh-CN',
   title: 'MiaBot 文档',
   description: 'MiaBot 是一个基于Go_CQhttp开发的一款机器人框架！',
+  base:  '/docs/',
 
   theme: defaultTheme({
     logo: 'https://api.skyxk.cn/UnturnedIcon/Item/689.png',
