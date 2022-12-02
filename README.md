@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://drea.cc/docs">
+  <a href="">
     <img src="https://api.skyxk.cn/UnturnedIcon/Item/689.png" width="200" height="200" alt="Rhyheart">
   </a>
 </p>
